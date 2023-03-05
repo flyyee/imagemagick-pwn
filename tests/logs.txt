@@ -1,0 +1,2 @@
+Win condition: num_other_arrays_controllable == 2 and this_array == 'red'
+{'file_order': [10, 10, 10, 10, 100, 10, 10], 'sizes': [(480, 480), (480, 480), (480, 480), (480, 480), (196, 196), (480, 480), (480, 480)], 'command': 'mogrify -format png tests/*.heic', 'padding': [13977, 13977, 13977, 13977, None, 13977, 13977]}
